@@ -1,5 +1,9 @@
-Hi, I'm Philip!
-I'm a game developer and occasionally make tools for the Unity Asset Store!
+Hi, if you're a unity developer, check out my tools on the asset store at Philip Beaucamp
 
-For any inquiries you can reach me at philipbeaucamp@gmail.com
+Inquiries: philipbeaucamp.inquiries@gmail.com
 
+C#, C++
+
+R, Matlab, Scilab, Latex
+
+Java, Python
