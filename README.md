@@ -1,9 +1,9 @@
-Hi, if you're a unity developer, check out my tools on the asset store at Philip Beaucamp
+Full stack (blockchain) dev, also making Unity dev tools on the side.
 
-Inquiries: philipbeaucamp.inquiries@gmail.com
+Check out my tools at https://assetstore.unity.com/publishers/56666
+Unity related inquiries: philipbeaucamp.inquiries@gmail.com
 
-C#, C++
-
-R, Matlab, Scilab, Latex
-
-Java, Python
+C#, C++ 
+Java, Kotlin
+Javascript, HTML, CSS, VueJs
+Python, R, Matlab, Scilab, Latex
