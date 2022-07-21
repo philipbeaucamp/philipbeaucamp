@@ -7,3 +7,5 @@ C#, C++
 Java, Kotlin
 Javascript, HTML, CSS, VueJs
 Python, R, Matlab, Scilab, Latex
+
+-Jack of all trades, master of none
