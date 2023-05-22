@@ -1,4 +1,4 @@
-Fullstack, like making games.
+Fullstack, enjoy working with Unity.
 
 Check out my tools at https://assetstore.unity.com/publishers/56666
 Unity related inquiries: philipbeaucamp.inquiries@gmail.com
